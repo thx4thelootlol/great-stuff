@@ -10,7 +10,13 @@
  h2{
     color: #8a8a8a;
     text-align: center;
-    font-size: 50px ;  
+    font-size: 50px ;
+    text-decoration: underline;
+    }
+    .container{
+        display:grid ;
+        grid-template-columns: 1fr;
+    }  
  }
  /*Nav Styles*/
  .nav-wrapper{
